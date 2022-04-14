@@ -13,3 +13,5 @@ collections
 matplotlib
 
 Ensure that the data files are in the same folder as the jupyter notebook, and then "Run all" would allow to execute the complete notebook.
+
+The blog post reflecting the insights from this analysis could be located here: https://prvnk10.medium.com/trends-in-the-tech-industry-ba541ede71b1 
